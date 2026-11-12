@@ -64,3 +64,26 @@ Notes
 
 This is a personal learning project. The findings are descriptive and do not establish causal relationships between variables.
 
+
+## Power BI Dashboard
+
+The project was extended with an interactive Power BI report to explore garment employee productivity across departments, teams and working days.
+
+### Dashboard Pages
+
+1. **Overview** – Key performance indicators (KPIs) and average actual productivity by department.
+2. **Department Analysis** – Comparison of actual and targeted productivity, overtime and incentives across departments.
+3. **Team & Overtime Analysis** – Average productivity by team and department along with the relationship between overtime and actual productivity.
+
+### Power BI Features
+
+1)Interactive department slicers (Finishing and Sewing).
+ 2)KPI cards for key productivity metrics.
+ 3)Department and team comparisons.
+4)Scatter chart for overtime and actual productivity.
+5)Interactive cross-filtering and highlighting between visuals.
+
+### Files
+
+ Garment_Productivity.pbix – Power BI report.
+garments_worker_productivity.xlsx – Cleaned dataset.
